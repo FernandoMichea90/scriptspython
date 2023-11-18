@@ -1,0 +1,578 @@
+[
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000BCA10G",
+    "nombre": "Bolsa Bio Cat Adulto 10Kg",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000BKC10D",
+    "nombre": "Bolsa Bokato Cachorro 10 kg.",
+    "recepciones": 170,
+    "picking": 213,
+    "cantidad": 60
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000BKG10D",
+    "nombre": "Bolsa Bokato Gold 10 kg.",
+    "recepciones": 70,
+    "picking": 50,
+    "cantidad": 32
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000BKG20D",
+    "nombre": "Bolsa Bokato Gold 20 kg.",
+    "recepciones": 350,
+    "picking": 292,
+    "cantidad": 104
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000BKL10D",
+    "nombre": "Bolsa Bokato Lady 10 kg.",
+    "recepciones": 20,
+    "picking": 20,
+    "cantidad": 19
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "00000000BKL5D",
+    "nombre": "Bolsa Bokato Lady 5 kg.",
+    "recepciones": 0,
+    "picking": 1,
+    "cantidad": 14
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "00000000BP10D",
+    "nombre": "Bolsa Bokato Petit Raza Peque\u00f1a 10K",
+    "recepciones": 150,
+    "picking": 84,
+    "cantidad": 49
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000BP025D",
+    "nombre": "Bolsa Bokato Petit Raza Peque\u00f1a 2,5K",
+    "recepciones": 0,
+    "picking": 24,
+    "cantidad": 34
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000BKT10D",
+    "nombre": "Bolsa Bokato Tradicional 10 kg.",
+    "recepciones": 30,
+    "picking": 30,
+    "cantidad": 50
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000BKT20D",
+    "nombre": "Bolsa Bokato Tradicional 20 kg.",
+    "recepciones": 140,
+    "picking": 170,
+    "cantidad": 31
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000BKV20D",
+    "nombre": "Bolsa Bokato Veloz 20 kg.",
+    "recepciones": 40,
+    "picking": 53,
+    "cantidad": 7
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000DPA18D",
+    "nombre": "Bolsa Dog Plus Adulto 18 kg.",
+    "recepciones": 50,
+    "picking": 24,
+    "cantidad": 62
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "00000DPARP75D",
+    "nombre": "Bolsa Dog Plus Adulto Raza Peque\u00f1a 7,5K",
+    "recepciones": 0,
+    "picking": 7,
+    "cantidad": 11
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000DPC15D",
+    "nombre": "Bolsa Dog Plus Cachorro 15 kg.",
+    "recepciones": 15,
+    "picking": 5,
+    "cantidad": 19
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000FTA20D",
+    "nombre": "Bolsa Forastero Adulto 20 kg.",
+    "recepciones": 35,
+    "picking": 23,
+    "cantidad": 12
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000FTC10D",
+    "nombre": "Bolsa Forastero Cachorro 10 kg.",
+    "recepciones": 10,
+    "picking": 10,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000FTH18D",
+    "nombre": "Bolsa Forastero Hembra 18 kg.",
+    "recepciones": 5,
+    "picking": 4,
+    "cantidad": 1
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "00000000MA22D",
+    "nombre": "Bolsa Mastin Adulto 22Kg",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000MARP10D",
+    "nombre": "Bolsa Mastin Adulto Raza Peque\u00f1a 10Kg",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000MCH15D",
+    "nombre": "Bolsa Mast\u00edn Cachorro 15K",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000MASD22",
+    "nombre": "Bolsa Mastin Senior Adulto 22 Kg.",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000NFA15D",
+    "nombre": "Bolsa Natural Food Adulto 15 kg.",
+    "recepciones": 0,
+    "picking": 1,
+    "cantidad": 9
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000NFO15D",
+    "nombre": "Bolsa Natural Food Adulto Esterilizado Light 15K",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 7
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000NFB10D",
+    "nombre": "Bolsa Natural Food Bones & Joint 15 kg.",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 4
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000NFC10D",
+    "nombre": "Bolsa Natural Food Cachorro 10 kg.",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 4
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000NFA75G",
+    "nombre": "Bolsa Natural Food Gato adulto 7.5 kg.",
+    "recepciones": 15,
+    "picking": 1,
+    "cantidad": 17
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000NFCH75G",
+    "nombre": "Bolsa Natural Food Gato Gestaci\u00f3n/Lactancia/Cachorro 7,5K",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000NFI75G",
+    "nombre": "Bolsa Natural Food Gato Indoor 7.5 kg.",
+    "recepciones": 8,
+    "picking": 2,
+    "cantidad": 12
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000NFRP10D",
+    "nombre": "Bolsa Natural Food Raza Peque\u00f1a 10 kg.",
+    "recepciones": 5,
+    "picking": 2,
+    "cantidad": 7
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000NFS15D",
+    "nombre": "Bolsa Natural Food Senior 15 kg.",
+    "recepciones": 10,
+    "picking": 4,
+    "cantidad": 10
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "00000NFSRP10D",
+    "nombre": "Bolsa Natural Food Senior Raza Peque\u00f1a  10K",
+    "recepciones": 3,
+    "picking": 1,
+    "cantidad": 1
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "00000000PF15D",
+    "nombre": "Bolsa Petfamily Adulto 15 kg.",
+    "recepciones": 20,
+    "picking": 16,
+    "cantidad": 18
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000POAP12D",
+    "nombre": "Bolsa Poema Adulto Pollo 12 kg.",
+    "recepciones": 10,
+    "picking": 10,
+    "cantidad": 10
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000POAP3D",
+    "nombre": "Bolsa Poema Adulto Pollo 3 kg.",
+    "recepciones": 0,
+    "picking": 3,
+    "cantidad": 5
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000POAS12D",
+    "nombre": "Bolsa Poema Adulto Salm\u00f3n 12 kg.",
+    "recepciones": 10,
+    "picking": 6,
+    "cantidad": 28
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000POAS3D",
+    "nombre": "Bolsa Poema Adulto Salm\u00f3n 3 kg.",
+    "recepciones": 0,
+    "picking": 6,
+    "cantidad": 5
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000POCP12D",
+    "nombre": "Bolsa Poema Cachorro Pollo 12 kg.",
+    "recepciones": 5,
+    "picking": 1,
+    "cantidad": 12
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000POCP3D",
+    "nombre": "Bolsa Poema Cachorro Pollo 3 kg.",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 7
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000POCS12D",
+    "nombre": "Bolsa Poema Cachorro Salm\u00f3n 12 kg.",
+    "recepciones": 10,
+    "picking": 4,
+    "cantidad": 11
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000POCS3D",
+    "nombre": "Bolsa Poema Cachorro Salm\u00f3n 3 kg.",
+    "recepciones": 0,
+    "picking": 1,
+    "cantidad": 5
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000POSP12D",
+    "nombre": "Bolsa Poema Senior Pollo 12 kg.",
+    "recepciones": 3,
+    "picking": 5,
+    "cantidad": 10
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000POSP3D",
+    "nombre": "Bolsa Poema Senior Pollo 3 kg.",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 7
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000POSS12D",
+    "nombre": "Bolsa Poema Senior Salmon 12 kg.",
+    "recepciones": 15,
+    "picking": 4,
+    "cantidad": 16
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000POSS3D",
+    "nombre": "Bolsa Poema Senior Salm\u00f3n 3 kg.",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 11
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000RPA18D",
+    "nombre": "Bolsa Regal Pet Adulto 18Kg",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "00000000RA23D",
+    "nombre": "Bolsa Regalon Adulto 23 kg.",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000000DPCD",
+    "nombre": "Caja SNACK Dog Plus Carne",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000000DPLD",
+    "nombre": "Caja SNACK Dog Plus Leche",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000000DPPD",
+    "nombre": "Caja SNACK Dog Plus Pollo",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000DPPCHD",
+    "nombre": "Caja SNACK Dog Plus Pollo Cachorro",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "00000Despacho",
+    "nombre": "Despacho",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 994
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000AKCH10D",
+    "nombre": "SACO 10KG ALASKA CACHORRO",
+    "recepciones": 20,
+    "picking": 6,
+    "cantidad": 19
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000AKA15D",
+    "nombre": "SACO 15KG ALASKA ADULTO",
+    "recepciones": 100,
+    "picking": 70,
+    "cantidad": 105
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "00000000DPCDU",
+    "nombre": "Snack Dog Plus Carne",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 14
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000DPCCHU",
+    "nombre": "Snack Dog Plus Carne cachorro",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "00000000DPPDU",
+    "nombre": "Snack Dog Plus Pollo",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000NFSNACKPG",
+    "nombre": "Snack Poema MiChiCream Pollo",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 2
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000PSNACKPCG",
+    "nombre": "Snack Poema MiChiCream Pollo Camar\u00f3n",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 1
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000NFSNACKSG",
+    "nombre": "Snack Poema MichiCream Salm\u00f3n",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "00000000NFSAD",
+    "nombre": "Suplemento Natural Food Adulto",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 1
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000NFSB&JD",
+    "nombre": "Suplemento Natural Food Bones & Joint",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 0
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "0000000NFSCHD",
+    "nombre": "Suplemento Natural Food Cachorros",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 1
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "00000000NFSPD",
+    "nombre": "Suplemento Natural Food Control de Peso",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 1
+  },
+  {
+    "bodega": "Prueba",
+    "ubicacion": "A-1-1-1-1",
+    "codigo": "000000000NFSG",
+    "nombre": "Suplemento Natural Food Gato Indoor",
+    "recepciones": 0,
+    "picking": 0,
+    "cantidad": 1
+  }
+]
